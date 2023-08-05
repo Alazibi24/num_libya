@@ -1,0 +1,11 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+a:hover {
+  background-color: #4CAF50; /* Green */
+  color: green;
+}
+a {
+  color: #4CAF50;
+}
